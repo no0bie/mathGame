@@ -1,5 +1,4 @@
 from flask import Flask, json, request
-from datetime import datetime
 import sqlite3
 from flask_cors import CORS
 import random
